@@ -1,0 +1,27 @@
+{
+  "name": "hashing",
+  "version": "1.0.0",
+  "description": "Actividad de Hashing en Node.js",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rogierotm29/Actividad-Hashing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rogierotm29/Actividad-Hashing/issues"
+  },
+  "homepage": "https://github.com/Rogierotm29/Actividad-Hashing#readme",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "mysql2": "^3.14.1"
+  }
+}
